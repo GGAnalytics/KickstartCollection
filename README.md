@@ -2,6 +2,7 @@
 A series of analytical scripts using various libraries, to be repurposed for custom tasks.  
 
 # Contents
-1. Neural network for learning the sine function
-   - Hi
-3. Neural network for learning to recognise the MNIST digits
+1. NeuralNetwork_Continuous
+   - Neural network for learning the sine function
+3. NeuralNetwork_Categorical
+   - Neural network for learning to recognise the MNIST digits
