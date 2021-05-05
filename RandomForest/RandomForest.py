@@ -19,7 +19,6 @@ from sklearn.metrics import silhouette_score
 from sklearn.metrics import davies_bouldin_score
 import RandomForest_Methods as rfm
 from rfpimp import *
-from pyclustering.cluster.kmedoids import kmedoids
 
 
 
