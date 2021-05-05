@@ -17,7 +17,7 @@ from sklearn.preprocessing import OneHotEncoder
 from sklearn_extra.cluster import KMedoids
 from sklearn.metrics import silhouette_score
 from sklearn.metrics import davies_bouldin_score
-import RF_Methods as rfm
+import RandomForest_Methods as rfm
 from rfpimp import *
 from pyclustering.cluster.kmedoids import kmedoids
 
