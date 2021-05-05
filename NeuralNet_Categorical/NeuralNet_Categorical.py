@@ -1,7 +1,7 @@
 ### Path setup ###
 ##################
 import os
-os.chdir("D:/Temp/ThingsToHave/Python Scripts/ML/Collection 27042021/SineTraining")
+os.chdir("C:/Users")
 
 
 # Import
