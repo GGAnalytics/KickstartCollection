@@ -23,7 +23,7 @@ XY = data.copy()
 Y = XY.pop("Y").to_numpy()
 X = XY.to_numpy()
 
-X_train, X_test, y_train, y_test = train_test_split(X, Y, test_size=0.3, random_state=1) # 70% training and 30% test
+X_train, X_test, y_train, y_test = train_test_split(X, Y, test_size=0.3, random_state=1)
 
 
 
